@@ -3,9 +3,9 @@
   "minAppVersion": "1.1.5",
   "updateKind": "full",
   "assetKind": "installer",
-  "hash": "88cbb43ec0dbd19f6760266d553d47ee467009e917f27728a0cc936b95efd332",
+  "hash": "6b303266dcb54fcfa1ba246612dbf56436d76923c6bb01535df15a2d20187fd6",
   "url": "https://github.com/huahuaduck/xi-code-releases/releases/download/v1.2.0/Xi.Code_1.2.0_x64-setup.exe",
-  "size": 283606628,
+  "size": 283604884,
   "changelog": "Xi Code 1.2.0：强化 Gateway readiness、SSE 流式处理和代码索引可靠性；JEV 默认关闭并保持影子/建议模式。",
   "releasedAt": "2026-09-23",
   "sourceRepository": "https://github.com/huahuaduck/xi-code"
